@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1 - Initial Upload Of Document
 2 - First change made
 3 - Some special change that might not work
+=======
+1 - Initial Upload Of Document
+>>>>>>> parent of 2af6791... First change that I made after uploading document
